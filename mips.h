@@ -1,3 +1,11 @@
+/*
+ * MIPS Assembler : CS2610 Assembly Language Programming Lab Project
+ *
+ *  Created on: April 20, 2019
+ *     Authors:	NILESH TIWARI CS17B022
+ 				VORA BRIJESH HARSHADBHAI CS17B031
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
